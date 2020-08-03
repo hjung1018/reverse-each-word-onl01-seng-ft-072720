@@ -3,7 +3,8 @@ reversed_array = []
 reversed = string.reverse
 array = reversed.split(" ")
 reversed_array.push(array.reverse)
-  reversed_word = reversed_array.split(" ")
-
+  reversed_word = reversed_array.join(" ")
+reversed_word
 end
+
   reversed_word(string)

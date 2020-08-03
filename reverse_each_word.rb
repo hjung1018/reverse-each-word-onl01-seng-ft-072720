@@ -7,4 +7,3 @@ reversed_array.push(array.reverse)
 reversed_word
 end
 
-  reversed_word(string)

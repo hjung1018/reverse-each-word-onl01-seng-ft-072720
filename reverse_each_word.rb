@@ -6,4 +6,4 @@ reversed_array.push(array.reverse)
   reversed_word = reversed_array.split(" ")
 
 end
-  reversed_word
+  reversed_word(string)
